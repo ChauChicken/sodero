@@ -1,4 +1,5 @@
-## Proyecto SODERO
+## Proyecto SODERO ( Sistema Operativo de Robótica, podría haber sido Sistema Operativo de Roberto ;) )
+
 
 Trabajo de fin de carrera realizado allá por el año 2002 por
 
